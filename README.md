@@ -19,6 +19,8 @@ Documents and data specifically developed for E3SM (Land Model, aka ELM) in NGEE
 ### IM-4. Improved Representation of Tundra Vegetation
 *Essentials*: Arctic tundra specific Plant Function Types (PFT), in terms of both DATA and plant physiology.
 
+*[See Details](https://github.com/NGEE-Arctic/E3SM-ngeeA-features/tree/main/IM4#im-4-improved-representation-of-tundra-vegetation)*
+
 ### IM-5. Improved Simulation of Vegetation Dynamics
 *Essentials*: ELM-FATES in Arctic tundra region(?).
 
